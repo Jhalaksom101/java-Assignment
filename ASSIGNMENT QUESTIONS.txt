@@ -1,0 +1,81 @@
+﻿ASSIGNMENT QUESTIONS
+
+
+COMPUTER BASICS
+
+
+Ques. 1:- What is a computer ?
+Ans:- Computer is a reprogrammable device that stores and process data in binary form in accordance with commands from the written source of a program code.
+Ques. 2:- What is RAM ?
+Ans:- RAM stands for Random Access Memory. It mainly refers to a collection of bytes. It is an example of primary memory as it stores the data temporarily while the computer processor runs application on the system.
+Ques. 3:- Where is data stored in the computer ?
+Ans:- Data is stored in HDD( Hard Disk Drive) permanently via the process of Saving. Hard disk drive have more storage capacity than RAM . It also has folders /directories.
+Ques. 4:- What is that input device used to type text and numbers on a document in the computer system ?
+Ans:- Keyboard is the input device used to type text and numbers on a document in the computer system.
+Ques. 5:- What are the output devices ?
+Ans:- Output devices are the hardwares which receives the information from the computer and converts it into human understandable language.
+Ques. 6:- Which is the input device that allows a user to move the cursor or pointer on the screen ?
+Ans:- Mouse is the input device that allows a user to move the cursor on the screen.
+Ques. 7:- Which language is directly understood by the computer without a translation program ?
+Ans:- Machine Language is directly understood by the computer without a translation program.
+Ques. 8:- What are Input Devices ?
+Ans:-  Input devices are the set of hardware that sends data to your computer and allows the interaction of the user with the machine. 
+
+
+
+
+FUNDAMENTALS OF JAVA
+
+
+Ques. 1:- What is a programming language ?
+Ans:- It refers to a set of notations i.e numbers,symbols or characters which is used to instruct a computer to follow a set of instructions.
+Ques. 2:- Why do we need a programming language ?
+Ans:- We need a programming language when we need to communicate with computer with the help of programming languages to perform certain tasks.
+Ques. 3:- What are the features of Java ?
+Ans:- The features of JAVA are -
+* Object oriented programming language
+* Platform independent
+* Machine independent
+* Portable in nature
+* Simple to operate
+* OS independent
+* Has neutral architecture
+* Has WORA Property (written once and run anywhere)
+Ques. 4:- What is an object ?
+Ans:- An Object is an entity with state and behaviour. It is a member of JAVA class. The state of an object is stored in the form of variables.
+Ques. 5:- What is class ?
+Ans:- Class is a collection of objects that have similar traits,behaviours and attributes. Class is a blueprint of an object.
+Ques. 6:- Explain about the main() method in Java?
+Ans:- Main() method is the entry point/ starting point of execution within a program. It is called by JVM to execute the program line by line and end the execution of the program.
+
+
+
+
+JAVA VARIABLES AND DATA TYPES
+
+
+Ques. 1:- What is Statically typed and Dynamically typed Programming Language ?
+Ans:- Statically typed programming language is said to be statically typed if the memory of the variable is provided at time of compilation.
+Dynamically typed programming language is said to be dynamically typed if memory of the variable is provided at time of execution.
+Ques. 2:- What is the variable in JAVA ?
+Ans:- Variable refers to the name of the memory allocated reserved area. It is mainly used to allocate/store data/information provided by the user.
+Ques. 3:- How to assign a value in a variable ?
+Ans:- Value in a variable is assigned by the following syntax:-
+Type of data var_name=value;
+Ques. 4:- What are Primitive data types in JAVA ?
+Ans:-  Primitive data types in java are :- int,short,long,char,byte,float and double.
+Ques. 5:- What are the identifiers in Java ?
+Ans:- These are the sequences which are used to identify a specific data in the program.
+Ques. 6:- List the operators in Java ?
+Ans:- Operators in Java are the symbols used for performing specific operations in Java. Operators include tasks such as addition,subtraction,multiplication,comparison etc.
+Ques. 7:- Explain about increment and decrement operators and give an example ?
+Ans:- Increment operator is a type of unary operator. It is used to increase the value of the assigned value by 1.
+Ex:- int x;
+x=10;
+x=x+1;
+OUTPUT :- 11
+Decrement operator is used to decrease the value of the assigned value by 1.
+Ex:- int x;
+x=10;
+x=x-1;
+OUTPUT :- 9
